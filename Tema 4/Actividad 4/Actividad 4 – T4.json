@@ -1,0 +1,134 @@
+{
+  "alineacion_bloques": {
+    "fecha": "left",
+    "formato": "left",
+    "nombres": "left"
+  },
+  "alineacion_imagenes": {
+    "imagen": "center",
+    "imagen_carga": "center",
+    "imagen_equipo": "right"
+  },
+  "titulos_secciones": {
+    "Datos de la actividad": {
+      "texto": "Datos de la actividad ",
+      "alineacion": "left"
+    },
+    "Descripción": {
+      "texto": "Examen sobre el uso del sensor ultrasónico HC-SR04",
+      "alineacion": "left"
+    },
+    "Requerimientos": {
+      "texto": "Requerimientos de la Actividad",
+      "alineacion": "left"
+    },
+    "Instrucciones de entrega": {
+      "texto": "Instrucciones de entrega",
+      "alineacion": "left"
+    },
+    "Instrucciones y criterios": {
+      "texto": "Instrucciones ",
+      "alineacion": "left"
+    },
+    "Criterios y condiciones": {
+      "texto": "Criterios y condiciones",
+      "alineacion": "left"
+    },
+    "Entrega del archivo": {
+      "texto": "Entrega del archivo",
+      "alineacion": "left"
+    },
+    "Instrucciones para cargar el archivo": {
+      "texto": "",
+      "alineacion": "left"
+    },
+    "Formato para nombrar los archivos": {
+      "texto": "",
+      "alineacion": "left"
+    },
+    "Enlaces y recursos": {
+      "texto": "",
+      "alineacion": "left"
+    },
+    "Notas importantes": {
+      "texto": "",
+      "alineacion": "left"
+    },
+    "Checklist": {
+      "texto": "Checklist",
+      "alineacion": "left"
+    }
+  },
+  "formato_secciones": {
+    "0": {
+      "texto": "justify",
+      "imagen": "left"
+    },
+    "1": {
+      "texto": "justify",
+      "imagen": "center"
+    },
+    "2": {
+      "texto": "justify",
+      "imagen": "right"
+    },
+    "3": {
+      "texto": "justify",
+      "imagen": "center"
+    },
+    "4": {
+      "texto": "justify",
+      "imagen": "center"
+    },
+    "5": {
+      "texto": "justify",
+      "imagen": "right"
+    },
+    "6": {
+      "texto": "justify",
+      "imagen": "left"
+    }
+  },
+  "version": "2.25",
+  "numero": "4",
+  "tema": "T4",
+  "ejercicio": "18",
+  "actividad": "4",
+  "titulo_principal": "Actividad 3 – T4 - Evaluacion Escrita",
+  "subtitulo": "Examen aplicado",
+  "nombre_archivo": "Actividad 4 – T4.html",
+  "materia": "Algoritmos y Lenguajes de Programación",
+  "unidad": "Unidad 2: estructuras de control",
+  "titulo": "Examen sobre el uso del sensor ultrasónico HC-SR04",
+  "docente": "Osmar García Zanabria",
+  "institucion": "Instituto Tecnológico Superior de Acatlán de Osorio",
+  "fecha_limite": "",
+  "hora_limite": "",
+  "estado_entrega": "deshabilitado",
+  "mostrar_contador": "no",
+  "cierre_automatico": "si",
+  "descripcion": "El 4 de noviembre de 2026 se aplicó un examen basado en los dos videos compartidos sobre el sensor ultrasónico HC-SR04. El primer video ilustró su uso para detectar un obstáculo frente a un robot; el segundo explicó cómo el sensor mide la distancia mediante la emisión de un pulso ultrasónico y la recepción de su eco.",
+  "requerimientos": "Identificar el sensor HC-SR04 y explicar su utilidad para detectar obstáculos.<br>Describir la secuencia de medición: emisión del pulso, reflexión en el objeto y recepción del eco.<br>Distinguir la función de las señales TRIG y ECHO durante la medición.<br>Relacionar el tiempo de recorrido del pulso con la distancia al objeto y explicar por qué el cálculo se divide entre dos.",
+  "instrucciones": "",
+  "entrega": "<div style=\"text-align:left\">El archivo no se entregará por este medio; deberá enviarse a través del enlace compartido dando click en el icono.</div>",
+  "condiciones": "Las respuestas debían basarse en los conceptos y ejemplos presentados en los dos videos.<br>La explicación debía distinguir el tiempo total de ida y vuelta del pulso de la distancia en un solo sentido, entre el sensor y el objeto.<br>Cuando se solicitara un cálculo, el procedimiento debía ser claro y el resultado debía incluir la unidad de medida correspondiente.<br>Esta información se presenta como referencia del examen ya aplicado<span style=\"font-weight:bold\">.</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">N</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">u</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">u</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">v</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">g</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">.</span>",
+  "instruccion_carga": "",
+  "instruccion_equipo": "<div style=\"text-align:left\"><br></div>",
+  "imagen_carga": "",
+  "imagen_equipo": "",
+  "firma": "",
+  "simulacion": "",
+  "enlace": "",
+  "imagen": "",
+  "enlaces": "",
+  "imagen_carga_ancho": "310",
+  "imagen_carga_alto": "270",
+  "imagen_equipo_ancho": "310",
+  "imagen_equipo_alto": "270",
+  "imagen_entrega_ancho": "180",
+  "imagen_entrega_alto": "120",
+  "nota_entrega": "<div style=\"text-align:justify\"><span style=\"font-weight:bold\">N</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">:</span> No se entregara nada.</div>",
+  "notas": "<div style=\"text-align:justify\"><br></div>",
+  "checklist": "Se identificó el sensor ultrasónico HC-SR04 y su aplicación para detectar obstáculos.<br>Se describió la secuencia de emisión del pulso y recepción del eco.<br>Se distinguieron las funciones de TRIG y ECHO.<br>Se explicó por qué se divide entre dos al calcular la distancia.<br>Cuando correspondía, se presentó el cálculo con su procedimiento y unidad de medida.",
+  "apartados_adicionales": []
+}
